@@ -25,6 +25,8 @@ public class GeeksForGeeks {
                 System.out.print("*");
             }
             System.out.println();
+            System.out.print();
+            
         }
     }
 
