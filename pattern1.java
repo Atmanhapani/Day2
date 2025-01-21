@@ -28,6 +28,7 @@ public class GeeksForGeeks {
             System.out.print();
             
         }
+        System.out.print("This is branch 2");
     }
 
     // Driver Function
