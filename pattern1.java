@@ -28,7 +28,8 @@ public class GeeksForGeeks {
             System.out.print();
             
         }
-        System.out.print("This is branch 2");
+        System.out.print("This is branch main");
+
     }
 
     // Driver Function
