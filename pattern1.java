@@ -16,7 +16,6 @@ public class GeeksForGeeks {
                 System.out.print("*");
             }
             System.out.println();
-            System.out.print();
         }
         for (i = n-1; i >= 1; i--) {
                 for (j = 1; j <= n - i; j++) {
